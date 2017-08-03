@@ -1,0 +1,20 @@
+
+
+
+// Instantiate the module
+MCPU instance_name (
+    .INT(INT), 
+    .clk(clk), 
+    .reset(reset), 
+    .MIO_ready(MIO_ready), 
+    .Data_in(Data_in), 
+    .mem_w(mem_w), 
+    .CPU_MIO(CPU_MIO), 
+    .PC_out(PC_out), 
+    .inst_out(inst_out), 
+    .Data_out(Data_out), 
+    .Addr_out(Addr_out), 
+    .state(state)
+    );
+
+

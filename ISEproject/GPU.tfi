@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+GPU instance_name (
+    .row(row), 
+    .col(col), 
+    .vram_addr(vram_addr), 
+    .vram_data(vram_data), 
+    .vga_data(vga_data)
+    );
+
+

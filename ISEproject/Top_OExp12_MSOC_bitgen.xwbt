@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.ncd
+OUTFILE=C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.bit
+FAMILY=Kintex7
+PART=xc7k160t-2lffg676
+WORKINGDIR=C:\computerorganization\OExp13-ngc
+LICENSE=WebPack
+USER_INFO=__0_0_0

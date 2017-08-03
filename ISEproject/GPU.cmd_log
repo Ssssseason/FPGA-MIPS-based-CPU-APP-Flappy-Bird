@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj OExp09-mcpu -o C:/computerorganization/OExp13/GPU.tfi -lib work C:/computerorganization/OExp13//GPU.v -module GPU -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

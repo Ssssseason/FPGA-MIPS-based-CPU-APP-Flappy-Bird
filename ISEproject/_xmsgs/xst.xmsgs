@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v" Line 77: Port <arg fmt="%s" index="1">CPU_MIO</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v" Line 97: Port <arg fmt="%s" index="1">counter_set</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\SAnti_jitter_IO.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">SAnti_jitter</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v" Line 61: Assignment to <arg fmt="%s" index="1">Pulse</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\SEnter_2_32_IO.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">SEnter_2_32</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v" Line 72: Assignment to <arg fmt="%s" index="1">Ai</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\P2S_IO.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">P2S(DATA_BITS=64,DATA_COUNT_BITS=6,DIR=1)</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"C:\computerorganization\OExp13-ngc\M_Datapath.v" Line 75: Port <arg fmt="%s" index="1">I5</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"C:\computerorganization\OExp13-ngc\M_Datapath.v" Line 63: Input port <arg fmt="%s" index="1">I3[4]</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"C:\computerorganization\OExp13-ngc\M_Datapath.v" Line 74: Input port <arg fmt="%s" index="1">I3[31]</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"C:\computerorganization\OExp13-ngc\M_Datapath.v" Line 75: Input port <arg fmt="%s" index="1">I5[31]</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v" Line 78: Assignment to <arg fmt="%s" index="1">State</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\ipcore_dir\RAM_B.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">RAM_B</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\computerorganization\OExp13-ngc\Counter_3_IO.v" Line 43: Assignment to <arg fmt="%s" index="1">M2</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\computerorganization\OExp13-ngc\Counter_3_IO.v" Line 36: Net &lt;<arg fmt="%s" index="1">counter1[32]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\LEDP2S_IO.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">LEDP2S(DATA_BITS=16,DATA_COUNT_BITS=4,DIR=0)</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\Seg7_Dev_IO.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">Seg7_Dev</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\PIO_IO.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">PIO</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\ipcore_dir\start512x200.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">start512x200</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\ipcore_dir\wall20x480.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">wall20x480</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\ipcore_dir\bird20x20.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">bird20x20</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\computerorganization\OExp13-ngc\ipcore_dir\VRAM.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">VRAM</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\computerorganization\OExp13-ngc\GPU.v" Line 32: Result of <arg fmt="%d" index="1">19</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">18</arg>-bit target.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">60</arg>: Output port &lt;<arg fmt="%s" index="3">pulse_out</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">U9</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">71</arg>: Output port &lt;<arg fmt="%s" index="3">Ai</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">71</arg>: Output port &lt;<arg fmt="%s" index="3">Bi</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">71</arg>: Output port &lt;<arg fmt="%s" index="3">blink</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">77</arg>: Output port &lt;<arg fmt="%s" index="3">state</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">U1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">77</arg>: Output port &lt;<arg fmt="%s" index="3">CPU_MIO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">U1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">90</arg>: Output port &lt;<arg fmt="%s" index="3">GPIOf0</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">U7</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">97</arg>: Output port &lt;<arg fmt="%s" index="3">counter_set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">U71</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">97</arg>: Output port &lt;<arg fmt="%s" index="3">GPIOf0</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">U71</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">122</arg>: Output port &lt;<arg fmt="%s" index="3">rdn</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">vga</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\computerorganization\OExp13-ngc\Top_OExp12_MSOC.v</arg>&quot; line <arg fmt="%s" index="2">125</arg>: Output port &lt;<arg fmt="%s" index="3">ready</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ps2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Disp_num&lt;63:32&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">INT</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Inst_in&lt;25:6&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">zero</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">overflow</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="2898" delta="old" >Port &apos;<arg fmt="%s" index="1">I3</arg>&apos;, unconnected in block instance &apos;<arg fmt="%s" index="2">M1</arg>&apos;, is tied to GND.
+</msg>
+
+<msg type="warning" file="Xst" num="2898" delta="old" >Port &apos;<arg fmt="%s" index="1">I3</arg>&apos;, unconnected in block instance &apos;<arg fmt="%s" index="2">M3</arg>&apos;, is tied to GND.
+</msg>
+
+<msg type="warning" file="Xst" num="2898" delta="old" >Port &apos;<arg fmt="%s" index="1">I5</arg>&apos;, unconnected in block instance &apos;<arg fmt="%s" index="2">M4</arg>&apos;, is tied to GND.
+</msg>
+
+<msg type="warning" file="Xst" num="2898" delta="old" >Port &apos;<arg fmt="%s" index="1">I6</arg>&apos;, unconnected in block instance &apos;<arg fmt="%s" index="2">M4</arg>&apos;, is tied to GND.
+</msg>
+
+<msg type="warning" file="Xst" num="2898" delta="old" >Port &apos;<arg fmt="%s" index="1">I7</arg>&apos;, unconnected in block instance &apos;<arg fmt="%s" index="2">M4</arg>&apos;, is tied to GND.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">clk1</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">clk2</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">counter1&lt;32&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">counter2&lt;32&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">rst</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">BTN</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">addr_bus&lt;27:18&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">led_out&lt;15:13&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">rst</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">U10</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">ps2/key_done</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U1/Contorller/CPU_MIO</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">U7/GPIOf0_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Top_OExp12_MSOC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_992</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_993</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_994</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_995</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_996</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_997</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_998</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_999</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1000</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1001</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1002</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1003</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1004</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1005</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1006</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1007</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1008</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1009</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1010</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1011</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1012</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1013</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1014</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1015</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1016</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1017</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1018</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1019</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1020</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1021</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1022</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">U1/DataPath/U2/register_31_1023</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">Top_OExp12_MSOC</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">sh_clk</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">M5/M2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;sh_clk_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">S_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">M5/M2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;S_0_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">S_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">M5/M2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;S_0_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">sh_clk</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">M5/M2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;sh_clk_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+
